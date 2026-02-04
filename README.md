@@ -3,13 +3,13 @@
 ---
 
 ## 🧠 About Me
-I’m a **Computer Science student** who’s done with surface-level learning.
+I’m a **Computer Science student** who’s experimenting and building.
 
-I like understanding **how things actually work** — not just using libraries blindly.
+I like understanding **how things actually work and break too !**.
 
 ---
 ## 🌐 Connect With Me
-(I exist outside GitHub, unfortunately)
+(I exist outside GitHub)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
@@ -40,5 +40,5 @@ I like understanding **how things actually work** — not just using libraries b
 - Consistency > Motivation  
 - Systems thinking > Tutorial hopping  
 
-Still learning. Still building. Still improving.
+learning.  building.  improving.
 
